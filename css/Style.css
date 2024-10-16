@@ -93,8 +93,7 @@ nav .header2{
 
 section{
     width: 1120px;
-    margin-bottom: 117px;
-    margin-left: 400px;
+    margin:auto;
 }
 
 section .box_main_content{
@@ -108,37 +107,37 @@ section .box_main_content img{
     width: 100%;
 }
 
-section .smalltiltle{
+section .smaltite{
     display: flex;
     width: 1120px;
+
     justify-content: space-between;
 }
 
-section .smalltiltle .box_vegetable{
+section .smaltite .box_{
     width: 528px;
-    height: 45px;
-    margin-top: 32px;
-    background-color: #778A50;
-    border-radius: 3px;
+    height: 201px;
+   margin-top: 32px;
 }
 
-section .smalltiltle .box_vegetable .title{
+section .smaltite .box_ .title{
     width: 100%;
     height: 45px;
-
+    background-color: #778A50;
     color: #EDF2C5;
     display: flex;
-    font-family: 'Noto Sans';
+    font-family: Noto Sans;
     font-size: 16px;
     font-weight: 900;
     line-height: 24px;
     text-align: left;
     align-items: center;
     padding-left: 30px;
+    border-radius: 3px;
     
 }
 
-section .smalltiltle .box_vegetable .pictures{
+section .smaltite .box_ .pictures{
     margin-top: 15px;
 
     display: flex;
@@ -146,38 +145,14 @@ section .smalltiltle .box_vegetable .pictures{
 }
 
 
-section .smalltiltle .box_contact{
-    width: 528px;
-    height: 45px;
-    margin-top: 32px;
-    background-color: #778A50;
-    border-radius: 3px;
-}
-
-section .smalltiltle .box_contact .title{
-    width: 100%;
-    height: 45px;
-    
-    color: #EDF2C5;
-    display: flex;
-    font-family: 'Noto Sans';
-    font-size: 16px;
-    font-weight: 900;
-    line-height: 24px;
-    text-align: left;
-    align-items: center;
-    padding-left: 30px;
-    
-}
-
-section .smalltiltle .box_contact .content{
+section .smaltite .box_ .content{
     width: 528px;
     height: 140px;
     background-color: #F7FBDA;
     margin-top: 15px;
     padding: 16px;
 }
-section .smalltiltle .box_contact .content .text{
+section .smaltite .box_ .content .text{
     font-family: Noto Sans;
     font-size: 12px;
     font-weight: 400;
@@ -185,7 +160,7 @@ section .smalltiltle .box_contact .content .text{
     text-align: left;
     color: #7D7D7D;
 }
-section .smalltiltle .box_contact .content .line{
+section .smaltite .box_ .content .line{
     border: 1px solid #7D7D7D;
     margin: 9px 0px;
 }
@@ -195,7 +170,7 @@ section .smalltiltle .box_contact .content .line{
 footer {
     width: 100vw;
     height: 60px;
-    margin-top: 217px;
+    margin-top: 117px;
     background-color: #778A50;
     border-radius: 3px;
     color: #EDF2C5;
