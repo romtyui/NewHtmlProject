@@ -93,7 +93,8 @@ nav .header2{
 
 section{
     width: 1120px;
-    margin: auto;
+    margin-bottom: 117px;
+    margin-left: 400px;
 }
 
 section .box_main_content{
@@ -194,18 +195,16 @@ section .smalltiltle .box_contact .content .line{
 footer {
     width: 100vw;
     height: 60px;
-    margin-bottom: auto;
+    margin-top: 217px;
     background-color: #778A50;
     border-radius: 3px;
     color: #EDF2C5;
-
     display: flex;
     align-items: center;
     justify-content: center;
-    position: absolute;
-    bottom: 0px;
+    
     font-family: 'Noto Sans';
     font-size: 12px;
     font-weight: 400;
-    line-height: 0px;
+    line-height: 18px;
 }
